@@ -19,7 +19,7 @@ contains the main method. The chess board is generated through the creation of a
 has a piece registered to it and most of the operations that the various methods perform envoke the fields of a given Tile object.
 
 ## Screenshots
-
+![Chess ScreenCap1](https://user-images.githubusercontent.com/40774420/60543827-50e2de80-9ce5-11e9-98d6-7a5ba9351456.PNG)
 
 ### Bugs and Improvements
 A major bug is found in check mate. The response for a check mate situation should be a game over
