@@ -24,7 +24,9 @@ has a piece registered to it and most of the operations that the various methods
 
 ![ScreenCap2](https://user-images.githubusercontent.com/40774420/60543928-943d4d00-9ce5-11e9-83e8-cbdf4c072083.PNG)
 
+![ScreenCap3](https://user-images.githubusercontent.com/40774420/60544248-660c3d00-9ce6-11e9-8efb-eb39d91ce5b8.PNG)
 
+![ScreenCap4](https://user-images.githubusercontent.com/40774420/60544279-74f2ef80-9ce6-11e9-81f3-ac08a1460d5a.PNG)
 
 
 
