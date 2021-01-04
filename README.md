@@ -29,9 +29,3 @@ has a piece registered to it and most of the operations that the various methods
 ![ScreenCap4](https://user-images.githubusercontent.com/40774420/60544279-74f2ef80-9ce6-11e9-81f3-ac08a1460d5a.PNG)
 
 
-
-### Bugs and Improvements
-A major bug is found in check mate. The response for a check mate situation should be a game over
-message. However such a message is not displayed, all further moves are simply not allowed. 
-There is an enourmous potential for improvement with the creation of a GUI, and the implementation of 
-a minimax algorithm to make the game single player. 
